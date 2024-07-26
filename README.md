@@ -16,7 +16,7 @@ This is the source code for building an e-commerce application in Flutter using 
 - **Beautiful UI:** Optimized for both mobile and tablet displays.
 
 ## 📔 Topics Covered
-- **Flutter State Management:** Utilizes the `provider` and `get` packages for managing state.
+- **Flutter State Management:** Utilizes `get` packages for managing state.
 - **REST API Integration:** Communicates with the backend using the `http` package.
 - **Local Storage:** Uses Hive for storing user data and preferences locally.
 - **UI/UX Design:** Enhanced user experience with smooth navigation and visual feedback using packages like `curved_navigation_bar` and `carousel_slider`.
